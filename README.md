@@ -1,1 +1,5 @@
-# travisci
+Calculator Repo 
+
+Dependencies:
+numpy
+pandas

@@ -9,6 +9,9 @@ class Calculator:
 
     def minus(self):
         return self.num1 - self.num2
+    
+    def multi(self):
+        return self.num1 * self.num2
 
 
 if __name__ == '__main__':

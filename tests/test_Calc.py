@@ -17,3 +17,8 @@ class TestCalci():
         x, y = 2, 1
         instance = Calculator(x, y)
         assert instance.multi() == x * y, "Some issue in Multi Method"
+
+    def test_div(self):
+        x, y = 2, 1
+        instance = Calculator(x, y)
+        assert instance.division() == x / y, "Some issue in Division Method"

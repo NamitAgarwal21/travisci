@@ -1,5 +1,6 @@
-dist: xenial
+# dist: xenial
 language: python
+os: osx
 python:
   - "3.7"
 

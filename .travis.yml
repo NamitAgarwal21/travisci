@@ -1,6 +1,6 @@
 # dist: xenial
 language: python
-os: freebsd
+os: linux
 python:
   - "3.7"
 
